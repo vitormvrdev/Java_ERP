@@ -3,7 +3,6 @@ package com.vitormvr.erp_mvp.domain;
 import java.time.LocalDateTime;
 import jakarta.persistence.*;
 import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.ManyToOne;
 
 public class LogEntry {
     @Id @GeneratedValue
