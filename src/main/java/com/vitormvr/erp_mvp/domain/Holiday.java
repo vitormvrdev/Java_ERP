@@ -2,8 +2,6 @@ package com.vitormvr.erp_mvp.domain;
 
 import java.time.LocalDate;
 
-import org.springframework.security.access.method.P;
-
 import jakarta.persistence.*;
 import jakarta.persistence.GeneratedValue;
 
